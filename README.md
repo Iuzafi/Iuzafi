@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou o @Iuzafi mas pode me chamar Vini.
+- 👋 Olá, meu nome é Vinicius Fiuza e eu sou aprendiz entusiasta da área de programação.
 - 👀 Tenho uma longa história com computadores e agora estou dando inicio a minha aventura pela programação.
 - 🌱 Com um passo de cada vez estou aprendendo cada vez mais sobre tudo até encontrar meu caminho e focar nele. 
 - 💞️ Aberto para todo tipo de colaboração em que eu possa ser útil ou apenas adquirir mais conhecimento.
